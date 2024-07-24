@@ -1,0 +1,117 @@
+[
+    {
+        "level": 5,
+        "roleid": "1264647034980405328",
+        "rewardroleid": "627587592719695903",
+        "rewards": [
+            {
+                "name": "Metal Block",
+                "amount": 80
+            },
+            {
+                "name": "Plazma Spikes",
+                "amount": 30
+            },
+            {
+                "name": "Hydrogen Tower",
+                "amount": 1
+            },
+            {
+                "name": "Spike Tower",
+                "amount": 1
+            },
+            {
+                "name": "Basic Turret",
+                "amount": 6
+            },
+            {
+                "name": "Ice Turret",
+                "amount": 2
+            },
+            {
+                "name": "Slime Tower",
+                "amount": 1
+            },
+            {
+                "name": "Flamethrower",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "level": 10,
+        "roleid": "1264648150736699412",
+        "rewardroleid": "629342474061479936",
+        "rewards": [
+            {
+                "name": "Shield Generator",
+                "amount": 2
+            },
+            {
+                "name": "Lazer Turret",
+                "amount": 3
+            },
+            {
+                "name": "Shocky Turret",
+                "amount": 1
+            },
+            {
+                "name": "Obsidian spikes",
+                "amount": 20
+            },
+            {
+                "name": "Obsidian Block",
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "level": 15,
+        "roleid": "1265591212321144913",
+        "rewardroleid": "629342474061479936",
+        "rewards": [
+            {
+                "name": "Obsidian Block",
+                "amount": 50
+            },
+            {
+                "name": "Deadly Spikes",
+                "amount": 25
+            },
+            {
+                "name": "Obsidian Block",
+                "amount": 90
+            },
+            {
+                "name": "Tesla Turret",
+                "amount": 2
+            },
+            {
+                "name": "Magnet Tower",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "level": 20,
+        "roleid": "1265591287202189438",
+        "rewardroleid": "629342474061479936",
+        "rewards": [
+            {
+                "name": "Lazer Killer",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "level": 30,
+        "roleid": "1265591402604007425",
+        "rewardroleid": "629342474061479936",
+        "rewards": [
+            {
+                "name": "Star Destroyer",
+                "amount": 2
+            }
+        ]
+    }
+]
