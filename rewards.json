@@ -6,35 +6,27 @@
         "rewards": [
             {
                 "name": "Metal Block",
-                "amount": 80
+                "amount": 40
             },
             {
                 "name": "Plazma Spikes",
-                "amount": 30
+                "amount": 15
             },
             {
                 "name": "Hydrogen Tower",
                 "amount": 1
             },
             {
-                "name": "Spike Tower",
-                "amount": 1
-            },
-            {
                 "name": "Basic Turret",
-                "amount": 6
+                "amount": 2
             },
             {
                 "name": "Ice Turret",
-                "amount": 2
+                "amount": 1
             },
             {
                 "name": "Slime Tower",
                 "amount": 1
-            },
-            {
-                "name": "Flamethrower",
-                "amount": 3
             }
         ]
     },
@@ -44,12 +36,8 @@
         "rewardroleid": "629342474061479936",
         "rewards": [
             {
-                "name": "Shield Generator",
-                "amount": 2
-            },
-            {
                 "name": "Lazer Turret",
-                "amount": 3
+                "amount": 1
             },
             {
                 "name": "Shocky Turret",
@@ -57,11 +45,11 @@
             },
             {
                 "name": "Obsidian spikes",
-                "amount": 20
+                "amount": 15
             },
             {
                 "name": "Obsidian Block",
-                "amount": 50
+                "amount": 25
             }
         ]
     },
@@ -72,19 +60,19 @@
         "rewards": [
             {
                 "name": "Obsidian Block",
-                "amount": 50
-            },
-            {
-                "name": "Deadly Spikes",
                 "amount": 25
             },
             {
-                "name": "Obsidian Block",
-                "amount": 90
+                "name": "Deadly Spikes",
+                "amount": 15
             },
             {
                 "name": "Tesla Turret",
-                "amount": 2
+                "amount": 1
+            },
+            {
+                "name": "Shield Generator",
+                "amount": 1
             },
             {
                 "name": "Magnet Tower",
