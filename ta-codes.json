@@ -1,0 +1,20 @@
+[
+  {
+    code = "Test",
+    expiration = false,
+    rewards = [
+      {
+        title = "Credits",
+        amount = 1,
+      },
+      {
+        title = "Revives",
+        amount = 1,
+      },
+      {
+        title = "Starter Mining Kit",
+        amount = 1,
+      },
+    ]
+  },
+]
